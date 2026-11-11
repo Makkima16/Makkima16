@@ -1,103 +1,66 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# Andrés (Mateo) Padilla Forero
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Andres</h1></summary>
-  </ul>
-</div>
+Estudiante de Ingeniería de Sistemas en la Universidad de Caldas (grado previsto en 2028-1) · Manizales, Colombia
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+Me enfoco en **inteligencia artificial aplicada** (LLMs, RAG y visión artificial) y en el **desarrollo de software full stack**. Estoy buscando una **práctica profesional de 6 meses o más**.
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Angular, React, React Native, Nodejs, MongoDB**
-- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
-- 💬 Ask me about **Angular, react, react-native, nodejs, mongoDB, Oracle**
-- 📫 Feel free to reach me out **mateopadillaforero@gmail.com**
-<!--Intro end-->
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/amateopf/)
 
-<!--- stats & Trophy (start) -->
-<p align="center">
+---
 
-  <!--- stats (start) -->
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://pixel-profile.vercel.app/api/github-stats?username=Makkima16&theme=dark&show_icons=true&count_private=true" />
-        <br></br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats"
-             alt="Mark streak"
-             src="https://github-readme-streak-stats.herokuapp.com/?user=Makkima16&theme=dark&hide_border=false" />
-      </td>
-      <td width="50%" align="center">
-        <img align="center"
-             src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Makkima16&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-      </td>
-    </tr>
-  </table>
-  <!--- stats (end) -->
+## Sobre mí
 
-  <!--- trophy (start) -->
-  <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84%
-           src="https://github-profile-trophy.vercel.app/?username=Makkima16&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"
-           alt="TROPHY" />
-    </a>
-  </div>
-  <!--- trophy (end) -->
+Me gusta construir sistemas completos y entender cómo funcionan por dentro: desde un robot que sigue una línea usando solo visión clásica, hasta una herramienta de IA que lee literatura científica, pasando por una plataforma de microservicios con autenticación de dos factores y pagos en línea. Tengo experiencia trabajando en equipo con ramas, pull requests, pruebas automáticas y contenedores.
 
-</p>
-<!--- stats (end) -->
+**Semillero de Machine Learning y Deep Learning** (Universidad de Caldas, 2025): aprendizaje supervisado y no supervisado, redes neuronales y evaluación de modelos con Python y TensorFlow.
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+**Becario de investigación** (Universidad de Caldas, feb. a jul. de 2025): gestión de bases de datos, inventarios y comunicación de un grupo de investigación.
 
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,express,figma,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
-  </a>
-</p>
+**Idiomas:** español (nativo) e inglés (A2, en progreso).
 
-<!-- Connect with me -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+## Proyectos destacados
 
-<!--icons and links-->
-<p align="center">
-  <a href="https://www.linkedin.com/in/andrés-mateo-padilla-forero/" target="blank">
-    <img align="center"
-         src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
-         alt="linkedin" height="50" width="50" />
-  </a>
+### IA y datos
 
-  <a href="https://www.instagram.com/makkima16/" target="blank">
-    <img align="center"
-         src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png"
-         alt="instagram" height="50" width="50" />
-  </a>
-</p>
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [Research-Automator](https://github.com/Makkima16/Research-Automator) | Herramienta de IA (LLM + RAG) para revisiones de literatura científica. Genera cadenas de búsqueda booleanas a partir de un tema, las ejecuta en OpenAlex, Semantic Scholar y Scopus, rankea y deduplica los papers y extrae fichas estructuradas con un LLM. La calidad de las cadenas se midió con un banco de pruebas y un juez LLM. | Python, SQLite, Nemotron (NVIDIA), Next.js, TypeScript |
+| [RootSearch](https://github.com/Makkima16/RootSearch) | Plataforma educativa en equipo que transcribe clases y genera con IA resúmenes, quizzes, glosarios y análisis de alineación con el plan de estudios. Procesamiento local o en la nube. Monorepo con CI. | NestJS, Next.js, MongoDB, Whisper, LM Studio, Docker, GitHub Actions |
+| [Line_follower_VATR](https://github.com/Makkima16/Line_follower_VATR) | Robot seguidor de línea con visión clásica (sin redes neuronales): segmentación, control PD, máquina de estados, mapa de cruces con búsqueda en profundidad y un simulador de lazo cerrado. | Python, OpenCV, NumPy, Bluetooth |
 
+### Desarrollo de software y arquitectura
 
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| Sistema BPM (cursos en línea con exámenes, pagos y certificados) | Plataforma de microservicios: autenticación con JWT y verificación en dos pasos por correo, lógica de negocio con exámenes calificados en el servidor, pagos con ePayco y frontend con roles de cliente y administrador. Desplegada en Railway. | Ver los repositorios de abajo |
+| [ms-security](https://github.com/Makkima16/ms-security) | Autenticación, autorización por roles y permisos, 2FA por correo, contraseñas con BCrypt. | Java 17, Spring Boot 3, MongoDB |
+| [ms-negocio-bpm](https://github.com/Makkima16/ms-negocio-bpm) | API de cursos, exámenes, pagos, certificados y recordatorios, con protección contra acceso indebido a datos de otros usuarios. | AdonisJS 5, TypeScript, MySQL |
+| [ms-frontend-bpm](https://github.com/Makkima16/ms-frontend-bpm) | Aplicación web con guards, interceptores, acceso progresivo a módulos y panel de administración. | Angular 18, Tailwind CSS |
+| [ms-correos](https://github.com/Makkima16/ms-correos) | Servicio de envío de correos del sistema. | Node.js, Python, Docker |
+| [pag_soft2 (DashRoute)](https://github.com/Makkima16/pag_soft2) | Plataforma de pedidos y transporte con microservicios, pruebas y CI. | TypeScript, Docker Compose, GitHub Actions |
+| [App_notas_flutter](https://github.com/Makkima16/App_notas_flutter) y [App_Notas_Backend](https://github.com/Makkima16/App_Notas_Backend) | Aplicación móvil de tareas, notas y recordatorios con API REST propia y autenticación. | Flutter, Node.js, Express, MySQL, JWT |
+| [Sistema_operativo (gemOS)](https://github.com/Makkima16/Sistema_operativo) | Sistema operativo de escritorio simulado con gestor de archivos, visores, monitor de recursos y usuarios. | Python, CustomTkinter |
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Algoritmos
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [ADA_2026B](https://github.com/Makkima16/ADA_2026B) | Proyecto en equipo sobre dos problemas NP-difíciles: aceleración de una cadena de etapas (mochila 0/1 con programación dinámica) y cobertura mínima de auditoría (Set Cover con algoritmo voraz y cota de aproximación). Mi parte es el Set Cover. Incluye pruebas, evidencias y un visor local. | Python, pytest |
+| [Algoritmos_2026_1](https://github.com/Makkima16/Algoritmos_2026_1) | Proyecto académico en equipo: dos frameworks (KGeoMIP y QNodes) para la partición de mínima información de la Teoría de Información Integrada, con paralelismo, benchmarks y un dashboard. | Python, NumPy, Numba, FastAPI, React |
 
-Last Edited on: 29/4/2023
+## Tecnologías
+
+| Área | Herramientas |
+|---|---|
+| Lenguajes | Python, TypeScript, JavaScript, Java, Dart, SQL |
+| IA y datos | LLMs y RAG (Nemotron, Whisper, LM Studio), TensorFlow, OpenCV, NumPy, pandas |
+| Backend | Node.js, NestJS, AdonisJS, Express, Spring Boot, APIs REST, JWT |
+| Frontend y móvil | Angular, React, Next.js, Tailwind CSS, Flutter |
+| Bases de datos | MySQL, MongoDB, Oracle, SQLite |
+| Herramientas | Git y GitHub, Docker, Docker Compose, GitHub Actions, Railway |
+| Calidad | pytest, Jest, Jasmine, ESLint |
+| Redes y sistemas | Sockets concurrentes, HTTP, procesos y sistemas operativos |
+
+## Contacto
+
+Si tienes una oportunidad de práctica o quieres conversar sobre alguno de estos proyectos, escríbeme por [LinkedIn](https://www.linkedin.com/in/amateopf/).
