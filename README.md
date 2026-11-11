@@ -1,6 +1,6 @@
 **English** | [Español](README.es.md)
 
-# Andrés (Mateo) Padilla Forero
+# Andrés Mateo Padilla Forero
 
 Systems Engineering student at Universidad de Caldas (expected graduation: 2028-1) · Manizales, Colombia
 
